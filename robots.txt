@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://flatsturm.github.io/sitemap/sitemap.txt
